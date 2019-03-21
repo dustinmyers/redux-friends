@@ -1,7 +1,8 @@
 # Redux Friends Server
 
-This is the server that goes along with the video tutorial on [React Router - Auth and Protected Routes](https://www.youtube.com/watch?v=uKHqPGKXCNY)
-
+This is the server that goes along with the video tutorials here:
+[React Router - Auth and Protected Routes (Part 1 of 2)](https://www.youtube.com/watch?v=uKHqPGKXCNY)
+[React Router - Auth and Protected Routes (Part 2 of 2)](https://www.youtube.com/watch?v=sayJGiJJUso)
 
 ### Starting up the server
 - Clone this repo
